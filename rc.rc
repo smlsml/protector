@@ -1,0 +1,15 @@
+//----------------------------------------------------------------------------
+// Borland C++ Builder
+// Copyright (c) 1996 by Borland International, All Rights Reserved
+//----------------------------------------------------------------------------
+#ifndef WORKSHOP_INVOKED
+  #include <windows.h>
+#endif
+
+Moon		BITMAP	Moon.bmp
+Earth		BITMAP	Earth.bmp
+Pause		BITMAP  Pause.bmp
+Rock0		BITMAP	Rock0.bmp
+Rock1		BITMAP	Rock1.bmp
+Shoot		WAV	shoot.wav
+Music		MIDI	music.mid
